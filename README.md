@@ -1,2 +1,2 @@
 # grajawebsite
-Sitio web de GRAGA Asociados
+Sitio oficial web de GRAJA Asociados.
