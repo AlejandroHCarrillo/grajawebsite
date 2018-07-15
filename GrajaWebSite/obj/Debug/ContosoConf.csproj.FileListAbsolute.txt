@@ -1,0 +1,10 @@
+E:\AHC\Cursos\20480 HTML5\Mod14\Labfiles\Solution\Exercise 1\ContosoConf\obj\Debug\ContosoConf.csprojResolveAssemblyReference.cache
+E:\AHC\Cursos\20480 HTML5\Mod14\Labfiles\Solution\Exercise 1\ContosoConf\bin\ContosoConf.dll
+E:\AHC\Cursos\20480 HTML5\Mod14\Labfiles\Solution\Exercise 1\ContosoConf\bin\ContosoConf.pdb
+E:\AHC\Cursos\20480 HTML5\Mod14\Labfiles\Solution\Exercise 1\ContosoConf\obj\Debug\ContosoConf.dll
+E:\AHC\Cursos\20480 HTML5\Mod14\Labfiles\Solution\Exercise 1\ContosoConf\obj\Debug\ContosoConf.pdb
+E:\Sieena\Cursos\20480 HTML5\Mod14\Labfiles\Solution\Exercise 1\ContosoConf\bin\ContosoConf.dll
+E:\Sieena\Cursos\20480 HTML5\Mod14\Labfiles\Solution\Exercise 1\ContosoConf\bin\ContosoConf.pdb
+E:\Sieena\Cursos\20480 HTML5\Mod14\Labfiles\Solution\Exercise 1\ContosoConf\obj\Debug\ContosoConf.csprojResolveAssemblyReference.cache
+E:\Sieena\Cursos\20480 HTML5\Mod14\Labfiles\Solution\Exercise 1\ContosoConf\obj\Debug\ContosoConf.dll
+E:\Sieena\Cursos\20480 HTML5\Mod14\Labfiles\Solution\Exercise 1\ContosoConf\obj\Debug\ContosoConf.pdb

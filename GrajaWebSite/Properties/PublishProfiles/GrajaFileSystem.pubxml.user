@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Temp\GrajaDeploy</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="about.htm">
+      <publishTime>07/11/2018 20:11:13</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.compiled">
+      <publishTime>07/12/2018 10:51:19</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.dll">
+      <publishTime>07/12/2018 10:51:19</publishTime>
+    </File>
+    <File Include="bin/ContosoConf.dll">
+      <publishTime>07/12/2018 10:51:15</publishTime>
+    </File>
+    <File Include="bin/System.ComponentModel.DataAnnotations.dll">
+      <publishTime>09/26/2012 01:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Configuration.dll">
+      <publishTime>09/26/2012 01:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Data.DataSetExtensions.dll">
+      <publishTime>09/26/2012 01:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Data.dll">
+      <publishTime>09/26/2012 01:16:08</publishTime>
+    </File>
+    <File Include="bin/System.dll">
+      <publishTime>09/26/2012 01:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Drawing.dll">
+      <publishTime>09/26/2012 01:16:08</publishTime>
+    </File>
+    <File Include="bin/System.EnterpriseServices.dll">
+      <publishTime>09/26/2012 01:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.ApplicationServices.dll">
+      <publishTime>09/26/2012 01:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.dll">
+      <publishTime>09/26/2012 01:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.DynamicData.dll">
+      <publishTime>09/26/2012 01:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.Entity.dll">
+      <publishTime>09/26/2012 01:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.Extensions.dll">
+      <publishTime>09/26/2012 01:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>10/01/2013 18:54:26</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>09/25/2014 12:27:58</publishTime>
+    </File>
+    <File Include="bin/System.Web.Services.dll">
+      <publishTime>09/26/2012 01:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>10/01/2013 18:54:26</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>10/01/2013 18:54:26</publishTime>
+    </File>
+    <File Include="bin/System.Xml.dll">
+      <publishTime>09/26/2012 01:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Xml.Linq.dll">
+      <publishTime>09/26/2012 01:16:08</publishTime>
+    </File>
+    <File Include="feedback.htm">
+      <publishTime>07/11/2018 20:01:37</publishTime>
+    </File>
+    <File Include="GenericError.htm">
+      <publishTime>07/11/2018 23:45:18</publishTime>
+    </File>
+    <File Include="images/logos/LogoGraja1.png">
+      <publishTime>07/09/2018 20:19:44</publishTime>
+    </File>
+    <File Include="images/logos/LogoGraja2.png">
+      <publishTime>07/09/2018 20:19:48</publishTime>
+    </File>
+    <File Include="images/speakers/april-meyer.jpg">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="images/speakers/david-alexander.jpg">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="images/speakers/mark-hanson-large.jpg">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="images/speakers/mark-hanson.jpg">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="images/speakers/melissa-kerr.jpg">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="images/sponsors/sponsor1.png">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="images/sponsors/sponsor2.png">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="images/sponsors/sponsor3.png">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="images/sponsors/sponsor4.png">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="images/sponsors/sponsor5.png">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="index.htm">
+      <publishTime>07/11/2018 20:12:27</publishTime>
+    </File>
+    <File Include="InternalError.htm">
+      <publishTime>07/11/2018 23:23:44</publishTime>
+    </File>
+    <File Include="live.htm">
+      <publishTime>07/11/2018 20:00:29</publishTime>
+    </File>
+    <File Include="Live/socket.ashx">
+      <publishTime>07/09/2018 22:15:43</publishTime>
+    </File>
+    <File Include="location.htm">
+      <publishTime>07/11/2018 19:59:17</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>07/12/2018 10:51:17</publishTime>
+    </File>
+    <File Include="register.htm">
+      <publishTime>07/11/2018 19:58:19</publishTime>
+    </File>
+    <File Include="registered.htm">
+      <publishTime>07/11/2018 19:59:45</publishTime>
+    </File>
+    <File Include="schedule.htm">
+      <publishTime>07/11/2018 20:00:45</publishTime>
+    </File>
+    <File Include="scripts/datetime.js">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="scripts/geometry.js">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="scripts/grayscale-worker.js">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="scripts/grayscale.js">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="scripts/HtmlTemplate.js">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="scripts/jquery.min.js">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="scripts/LocalStarStorage.js">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="scripts/Object.inherit.js">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="scripts/offline.js">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="scripts/pages/feedback.js">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="scripts/pages/live.js">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="scripts/pages/location-venue.js">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="scripts/pages/location.js">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="scripts/pages/register.js">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="scripts/pages/schedule.js">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="scripts/pages/speaker-badge.js">
+      <publishTime>07/09/2018 22:15:43</publishTime>
+    </File>
+    <File Include="scripts/pages/video.js">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="scripts/StarRatingView.js">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="scripts/_namespace.js">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="speaker-badge.htm">
+      <publishTime>07/11/2018 20:00:05</publishTime>
+    </File>
+    <File Include="styles/footer.css">
+      <publishTime>07/11/2018 20:15:32</publishTime>
+    </File>
+    <File Include="styles/header.css">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="styles/images/stars.png">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="styles/mobile.css">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="styles/nav.css">
+      <publishTime>07/11/2018 20:09:56</publishTime>
+    </File>
+    <File Include="styles/pages/about.css">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="styles/pages/feedback.css">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="styles/pages/index.css">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="styles/pages/live.css">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="styles/pages/location.css">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="styles/pages/register.css">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="styles/pages/schedule.css">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="styles/pages/speaker-badge.css">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="styles/print.css">
+      <publishTime>07/11/2018 19:20:35</publishTime>
+    </File>
+    <File Include="styles/site.css">
+      <publishTime>07/11/2018 20:08:19</publishTime>
+    </File>
+    <File Include="Views/Registration/Error.cshtml">
+      <publishTime>07/09/2018 22:17:50</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>12/12/2012 11:06:54</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/12/2018 10:29:04</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

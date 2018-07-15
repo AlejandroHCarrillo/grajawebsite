@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Graja Chat en Vivo</title>
+
+    <link href="/styles/site.css" rel="stylesheet" type="text/css" />
+    <link href="/styles/nav.css" rel="stylesheet" type="text/css" />
+    <link href="/styles/header.css" rel="stylesheet" type="text/css" />
+    <link href="/styles/footer.css" rel="stylesheet" type="text/css" />
+
+    <link href="/styles/pages/live.css" rel="stylesheet" type="text/css" />
+
+    <link href="/styles/mobile.css" rel="stylesheet" type="text/css" />
+    <link href="/styles/print.css" media="print" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+    <nav class="page-nav">
+        <div class="container">
+            <ul class="horizontal">
+                <li><a href="/index.htm">Inicio</a></li>
+                <li><a href="/mision.htm">Misi&oacute;n</a></li>
+                <li><a href="/servicios.htm">Servicios</a> </li>
+                <li><a href="/requisitos.htm">Requisitos</a> </li>
+                <li><a href="/location.htm">Ubicaci&oacute;n</a> </li>
+                <li><a href="/live.htm" class="active">Chat</a> </li>
+                <li><a href="/feedback.htm">Retro</a> </li>
+            </ul>
+        </div>
+    </nav>
+
+    <header class="page-header" style="background: #ffffff;">
+        <div class="container">
+            <table style="border: 0px">
+                <tr>
+                    <td style="border: none;">
+                        <a href="/index.htm" class="active">
+                            <img alt="Graja" class="logo-style1" src="images/logos/LogoGraja1.png" />
+                        </a>
+
+                    </td>
+                    <td>
+                        <h2>Graja Cooperativa Integral de Apoyo y Asistencia</h2>
+                        <p class="tag-line">Un apoyo para tu futuro</p>
+                    </td>
+                </tr>
+            </table>
+
+            <a class="register" href="/register.htm">Contacto<br />
+                <span class="free">&#183; Aqu&iacute; &#183;</span>
+            </a>
+        </div>
+    </header>
+
+    <section class="page-section live">
+        <div class="container">
+            <h1>Attending the conference right now? Get involved!</h1>
+            <form action="#">
+                <label for="ask-question-text">Ask a question</label>
+                <input id="ask-question-text" type="text" />
+                <button type="submit">Ask</button>
+            </form>
+            <ul>
+                <!-- Questions will be displayed here when received by the web socket. -->
+            </ul>
+        </div>
+    </section>
+
+    <footer class="page-footer">
+        <div class="container">
+            <p>
+                GRAJA un apoyo para tu futuro
+            </p>
+            <address>
+                Conference Center<br />
+                1234 Main Street<br />
+                Seattle<br />
+                WA 98999
+            </address>
+            <p>
+                &#169; 2012 Graja
+            </p>
+        </div>
+    </footer>
+
+    <script src="/scripts/Object.inherit.js" type="text/javascript"></script>
+    <script src="/scripts/pages/live.js" type="text/javascript"></script>
+</body>
+</html>
