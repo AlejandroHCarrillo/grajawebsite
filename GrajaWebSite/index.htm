@@ -20,63 +20,47 @@
             float: right;
         }
 
-        body, html {
-            height: 100%;
-        }
-
-        .bg {
-            /* The image used */
-            background-image: url("images/Background/bgCielo.jpg");
-            /* Full height */
-            height: 100%;
-            /* Center and scale the image nicely */
-            background-position: center;
-            background-repeat: no-repeat;
-            background-size: cover;
-        }
     </style>
 </head>
 <body>
+    <div style="position:fixed; left:0; right:0;">
+        <nav class="page-nav">
+            <div class="container" style="align-content: center">
+                <ul class="horizontal">
+                    <li><a href="/index.htm" class="active">Inicio</a></li>
+                    <li><a href="/mision.htm">Misi&oacute;n</a></li>
+                    <li><a href="/servicios.htm">Servicios</a> </li>
+                    <li><a href="/requisitos.htm">Requisitos</a> </li>
+                    <!--<li><a href="/avisoprivacidad.htm">Aviso Privacidad</a> </li>-->
+                    <li><a href="/faq.htm">Preguntas</a> </li>
+                </ul>
+            </div>
+            
+        </nav>
+        <header class="page-header">
+            <div class="container">
+                <table style="border: 0px">
+                    <tr>
+                        <td style="border: none;">
+                            <a href="/index.htm" class="active">
+                                <img alt="Graja" class="logo-style1" src="images/logos/LogoGraja1.png" />
+                            </a>
+                        </td>
+                        <td>
+                            <h2>Graja Cooperativa Integral de Apoyo y Asistencia</h2>
+                            <p class="tag-line">Un apoyo para tu futuro</p>
+                        </td>
+                    </tr>
+                </table>
+                <a class="register" href="/register.htm">Contacto<br />
+                    <span class="free">&#183; Aqu&iacute; &#183;</span>
+                </a>
+            </div>
+        </header>
+    </div>
 
-    <nav class="page-nav">
-        <div class="container" style="align-content: center">
-            <ul class="horizontal">
-                <li><a href="/index.htm" class="active">Inicio</a></li>
-                <li><a href="/mision.htm">Misi&oacute;n</a></li>
-                <li><a href="/servicios.htm">Servicios</a> </li>
-                <li><a href="/requisitos.htm">Requisitos</a> </li>
-                <li><a href="/location.htm">Ubicaci&oacute;n</a> </li>
-                <li><a href="/faq.htm">Preguntas</a> </li>
-            </ul>
-        </div>
-    </nav>
-
-    <header class="page-header" style="background: #ffffff;">
+    <section class="page-section">
         <div class="container">
-            <table style="border: 0px">
-                <tr>
-                    <td style="border: none;">
-                        <a href="/index.htm" class="active">
-                        <img alt="Graja" class="logo-style1" src="images/logos/LogoGraja1.png" />
-                        </a>
-                    </td>
-                    <td>
-                        <h2>Graja Cooperativa Integral de Apoyo y Asistencia</h2>
-                        <p class="tag-line">Un apoyo para tu futuro</p>
-                    </td>
-                </tr>
-            </table>
-
-            <a class="register" href="/register.htm">Contacto<br />
-                <span class="free">&#183; Aqu&iacute; &#183;</span>
-            </a>
-        </div>
-    </header>
-
-    <section class="page-section" style="background: url('images/Background/bgCielo3.jpg') repeat #999999 fixed center">
-        <div class="container" style="background: #ffffff;">
-            <br />
-
             <section class="introduction">
                 <div>
                     <h1>
@@ -118,7 +102,7 @@
                         <li>Costureras y modistas</li>
                         <li>Estilistas, peluqueros y barberos</li>
                         <li>Taxistas, transportistas y repartidores</li>
-                        <li>Venderores y comisionistas</li>
+                        <li>Vendedores y comisionistas</li>
                         <li>Profesionistas independientes, profesionistas y freelancers</li>
                         <li>Plomeros, carpinteros y soldadores</li>
                         <li>Agricultores y jornaleros</li>
@@ -146,7 +130,7 @@
                 Contactanos: <a href="mailto:contactograja@gmail.com">contactograja@gmail.com</a>
             </address>
             <p>
-                &#169; 2018 Graja
+                <a href="/avisoprivacidad.htm">Aviso Privacidad</a> &#169; Graja 2018 
             </p>
         </div>
     </footer>
