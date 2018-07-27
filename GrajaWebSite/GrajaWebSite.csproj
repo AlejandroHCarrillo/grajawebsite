@@ -123,22 +123,28 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="about.htm" />
-    <Content Include="avisoprivacidad.html" />
+    <Content Include="avisoprivacidad.htm" />
     <Content Include="faq.htm" />
     <Content Include="favicon.ico" />
     <Content Include="GenericError.htm" />
+    <Content Include="images\Background\bgGrafito.jpg" />
     <Content Include="images\Background\bgCielo.jpg" />
     <Content Include="images\Background\bgCielo2.jpg" />
     <Content Include="images\Background\bgCielo3.jpg" />
     <Content Include="images\fotos\trabajadores.jpg" />
+    <Content Include="images\logos\Graja16x16.jpg" />
+    <Content Include="images\logos\Graja32x32.jpg" />
+    <Content Include="images\logos\Graja64x64.jpg" />
     <Content Include="images\logos\LogoGraja1.png" />
     <Content Include="images\logos\LogoGraja2.png" />
+    <Content Include="images\logos\menu-icon.png" />
     <Content Include="images\speakers\mark-hanson-large.jpg" />
     <Content Include="InternalError.htm" />
     <Content Include="mision.htm">
       <BrowseToURL>~/mision.htm</BrowseToURL>
     </Content>
     <Content Include="pasosafiliacion.html" />
+    <Content Include="Puebas.html" />
     <Content Include="registered.htm" />
     <Content Include="Global.asax" />
     <Content Include="requisitos.htm">
@@ -186,6 +192,7 @@
     <Content Include="styles\mobile.css" />
     <Content Include="styles\nav.css" />
     <Content Include="styles\pages\about.css" />
+    <Content Include="styles\pages\faq.css" />
     <Content Include="styles\pages\feedback.css" />
     <Content Include="styles\pages\index.css" />
     <Content Include="styles\pages\live.css" />

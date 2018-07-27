@@ -63,3 +63,4 @@ C:\GRAJA\grajawebsite\GrajaWebSite\bin\System.Web.WebPages.Deployment.xml
 C:\GRAJA\grajawebsite\GrajaWebSite\bin\System.Web.WebPages.Razor.xml
 C:\GRAJA\grajawebsite\GrajaWebSite\obj\Debug\Grajawebsite.dll
 C:\GRAJA\grajawebsite\GrajaWebSite\obj\Debug\Grajawebsite.pdb
+C:\GRAJA\grajawebsite\GrajaWebSite\obj\Debug\GrajaWebSite.csprojResolveAssemblyReference.cache

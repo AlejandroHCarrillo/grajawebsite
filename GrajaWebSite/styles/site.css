@@ -38,6 +38,27 @@ h1 {
     margin: 1em 0 .25em 0;
 }
 
+header.page-header
+{
+    background: #ffffff; 
+    padding-top:5rem;
+}
+
+section.page-header
+{
+    background: #ffffff; 
+    padding-top:14rem;
+}
+
+nav.page-nav {
+    position: fixed; 
+    top:0px; 
+    left:0px; 
+    right:0;
+}
+.menu-button {
+    height:40px
+}
 /**/
 /*toolbar-nav {
     list-style-type: none;
@@ -60,7 +81,7 @@ ul.horizontal {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #393939;
 }
 
 ul.horizontal li {
@@ -71,7 +92,7 @@ ul.horizontal li a {
     display: inline-block;
     color: white;
     text-align: center;
-    padding: 5px 5px;
+    padding: 5px 10px;
     text-decoration: none;
 }
 
