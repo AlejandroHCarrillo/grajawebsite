@@ -48,7 +48,7 @@ nav.page-nav .active:hover {
     color: #fff; /* Overrides hover effect for active page link */
 }
 
-/*nav.page-nav .active:before /* Creates ribbon effect on active link */ {
+    nav.page-nav .active:before /* Creates ribbon effect on active link */ {
     position: absolute;
     top: 6rem;
     display: block;
@@ -58,9 +58,9 @@ nav.page-nav .active:hover {
     border-top: 2rem solid #8d0606;
     border-right: 6.5rem solid transparent;
     content: "";
-}*/
+}
 
-/*nav.page-nav .active:after /* Creates ribbon effect on active link */ {
+nav.page-nav .active:after /* Creates ribbon effect on active link */ {
     position: absolute;
     display: block;
     height: 0;
@@ -69,4 +69,4 @@ nav.page-nav .active:hover {
     border-top: 2rem solid #8d0606;
     border-left: 6.5rem solid transparent;
     content: "";
-}*/
+}

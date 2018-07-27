@@ -28,7 +28,7 @@ input, button {
     margin: 0 auto;
 }
 
-section.page-section .container {
+.page-section .container {
     padding-bottom: 2rem;
 }
 
@@ -50,10 +50,10 @@ section.page-header
     padding-top:14rem;
 }
 
-nav.page-nav {
+.page-nav {
     position: fixed; 
-    top:0px; 
-    left:0px; 
+    top:0; 
+    left:0; 
     right:0;
 }
 .menu-button {
