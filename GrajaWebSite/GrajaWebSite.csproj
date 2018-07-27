@@ -192,6 +192,7 @@
     <Content Include="styles\mobile.css" />
     <Content Include="styles\nav.css" />
     <Content Include="styles\pages\about.css" />
+    <Content Include="styles\pages\faq.css" />
     <Content Include="styles\pages\feedback.css" />
     <Content Include="styles\pages\index.css" />
     <Content Include="styles\pages\live.css" />
