@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -24,7 +24,6 @@
                     <li><a href="/mision.htm">Misi&oacute;n</a></li>
                     <li><a href="/servicios.htm">Servicios</a> </li>
                     <li><a href="/requisitos.htm">Requisitos</a> </li>
-                    <!--<li><a href="/avisoprivacidad.htm" class="active">Aviso Privacidad</a> </li>-->
                     <li><a href="/faq.htm">Preguntas</a> </li>
                 </ul>
             </div>
@@ -44,7 +43,6 @@
                         </td>
                     </tr>
                 </table>
-
                 <!--<a class="register" href="/contacto.htm">Contacto<br />
                     <span class="free">&#183; Aqu&iacute; &#183;</span>
                 </a>-->
@@ -53,53 +51,58 @@
     </div>
     <section class="page-section register">
         <div class="container">
-            <h1>Register for the conference</h1>
+            <h1>Contacto Graja</h1>
             <form method="post" action="/registration/new" id="registration-form">
                 <div class="field">
-                    <label for="first-name">First name:</label>
+                    <label for="first-name">Nombre:</label>
                     <input type="text" id="first-name" name="FirstName" required="required" autofocus="autofocus" />
                 </div>
                 <div class="field">
-                    <label for="last-name">Last name:</label>
+                    <label for="last-name">Apellido Paterno:</label>
                     <input type="text" id="last-name" name="LastName" required="required" />
                 </div>
                 <div class="field">
-                    <label for="email-address">Email address:</label>
+                    <label for="last-name">Apellido Materno:</label>
+                    <input type="text" id="Text1" name="LastName" required="required" />
+                </div>
+                <div class="field">
+                    <label for="email-address">Correo Electr&oacute;nico:</label>
                     <input type="email" id="email-address" name="EmailAddress" required="required" />
                 </div>
-                <div class="field">
+                <!--                <div class="field">
                     <label for="password">Choose a password:</label>
                     <input type="password" id="password" name="Password" required="required" pattern="[a-zA-Z0-9]{5,}" title="At least 5 letters and numbers" />
-                </div>
-                <div class="field">
+                </div>-->
+                <!--            <div class="field">
                     <label for="confirm-password">Confirm your password:</label>
                     <input type="password" id="confirm-password" name="ConfirmPassword" required="required" />
-                </div>
-                <div class="field">
+                </div>-->
+                <!--            <div class="field">
                     <label for="website">Website/blog:</label>
                     <input type="url" id="website" name="WebsiteUrl" placeholder="http://" />
+                </div>-->
+                <div class="field">
+                    <label for="Pregunta">Pregunta:</label>
+                    <input type="text" id="Pregunta" name="Pregunta" placeholder="Ponga su pregunta aqu&iacute;." />
                 </div>
                 <div>
-                    <button type="submit">Register</button>
+                    <button type="submit">Enviar</button>
                 </div>
             </form>
 
         </div>
     </section>
 
-    <footer class="page-footer">
+    <footer class="page-footer" style="position: fixed; width: 100%">
         <div class="container">
             <p>
                 GRAJA un apoyo para tu futuro
             </p>
             <address>
-                Conference Center<br />
-                1234 Main Street<br />
-                Seattle<br />
-                WA 98999
+                Contactanos: <a href="mailto:contactograja@gmail.com">contactograja@gmail.com</a>
             </address>
             <p>
-                &#169; 2012 Graja
+                <a href="/avisoprivacidad.htm">Aviso Privacidad</a> &#169; Graja 2018 
             </p>
         </div>
     </footer>
